@@ -133,3 +133,4 @@ function displayFinalResult(result) {
   document.getElementById('scores').appendChild(finalResult);
  
 }
+// would like to add a display of the computerSelection
